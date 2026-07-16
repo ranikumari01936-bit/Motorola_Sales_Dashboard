@@ -28,19 +28,7 @@ The dashboard expects a dataset containing sales transactions with fields such a
 - Sales Amount
 - Customer Rating
 
-If you used a sample dataset or CSV, include it in the repository (e.g., data/sales.csv) and update the data source path in Power BI.
-
-## How to use
-
-1. Open the Power BI Desktop file (.pbix) included in this repository (if present).
-2. If the data source is local (CSV/Excel), update the data source path to point to your file.
-3. Refresh the dataset to load current data.
-4. Use the slicers and filters on the report to explore regional or product-level insights.
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Please open an issue describing the change or create a pull request with your proposed updates.
 
-## License
-
-Include a license if you want to make the project open source (e.g., MIT).
